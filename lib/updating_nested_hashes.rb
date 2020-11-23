@@ -46,6 +46,6 @@ def add_characters
          ]
       }
    }
-epic_tragedy [:additional_characters]=[price={name: "Prince Escalus"} apothecary={name: "Apothecary"}]
+   epic_tragedy [:additional_characters]=[price={name: "Prince Escalus"} apothecary={name: "Apothecary"}]
    epic_tragedy
 end
